@@ -1,4 +1,4 @@
-readme_content = """# Infranexia Analytics: Sales Upselling Prediction
+
 
 Proyek ini bertujuan untuk mengoptimalkan strategi *sales* Infranexia dengan memprediksi peluang *upselling* (penambahan layanan baru) dari mitra (OLO/Mitra).
 
